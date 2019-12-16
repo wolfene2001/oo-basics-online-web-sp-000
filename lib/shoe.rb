@@ -6,4 +6,7 @@ class Shoe  # Make your shoe class here!
     @brand = brand
   end
 
+  def cobble
+    puts "Your shoe is as good as new!"
+  end
 end

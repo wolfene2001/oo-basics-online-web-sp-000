@@ -11,6 +11,6 @@ class Shoe  # Make your shoe class here!
     def condition
       @condition = new
     end
-    
+
   end
 end

@@ -9,7 +9,7 @@ class Shoe  # Make your shoe class here!
   def cobble
     puts "Your shoe is as good as new!"
     def condition
-      @condition 
+      @condition
     end
 
   end
